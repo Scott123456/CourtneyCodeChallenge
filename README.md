@@ -1,4 +1,4 @@
-# CharterChallenge
+# CourtneyCodeChallenge
 
 SQL and Python coding challenges.
 
