@@ -1,2 +1,7 @@
 # CharterChallenge
-SQL and Python coding challenges for Courtney at TalentBridge for Charter Communications
+
+SQL and Python coding challenges.
+
+Written by Scott Davis.
+
+For Courtney at TalentBridge for consideration by Charter Communications.
