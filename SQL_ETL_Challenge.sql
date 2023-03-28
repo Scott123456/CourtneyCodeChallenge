@@ -34,7 +34,7 @@ VALUES
 
 -- Load data into denormalized output table (ETL)
 
--- Delete existing data in output table and load new. (Not very efficient but totally reasonable for this data set at this time.)
+-- Delete existing data in output table and load all data. (Not very efficient but totally reasonable for this data set at this time.)
 TRUNCATE TABLE order_summary;
 
 INSERT INTO order_summary
