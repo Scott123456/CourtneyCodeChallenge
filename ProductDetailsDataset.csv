@@ -1,0 +1,6 @@
+product_id,product_name,unit_price
+1001,'Product A',10.0
+1002,'Product B',15.0
+1003,'Product C',5.0
+1004,'Product D',20.0
+1005,'Product E',30.0
